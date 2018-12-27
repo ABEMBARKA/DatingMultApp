@@ -117,10 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="StringLenght" xml:space="preserve">
-    <value>You must specify {0} between {1} and {2} characters</value>
-  </data>
-  <data name="Required" xml:space="preserve">
-    <value>{0} is required</value>
+  <data name="UserExist" xml:space="preserve">
+    <value>Username already exists</value>
   </data>
 </root>
